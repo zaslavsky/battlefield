@@ -4,13 +4,6 @@
 #  battlefield.py
 #  
 #  Copyright 2014 Dmitry Zaslavsky <zaslavsky@CELESTIA>
-#   _____________________________
-#__/                             \_____
-#  		mail:zaslavsky@live.ru
-#  		Phone: 8-903-257-06-31
-#  		www.vk.com/dmitry.zaslavsky
-#__								  _____
-#  \_____________________________/
 #
 #
 import pygame, random , math , configparser
